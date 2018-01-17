@@ -5,4 +5,4 @@ public class Kelas {
     System.out.println(y);
     System.out.println(x);
 }
-}
+}Miku
